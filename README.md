@@ -1,4 +1,4 @@
-<h1>Hola, soy Fernando Salinas, un apasionado por la ciencia, las matemáticas y el desarrollo de software, enfocado en el desarrollo web y de escritorio, aunque a veces toco Android Studio</h1>
+<h1>Hola, soy Fernando Salinas, un apasionado por la ciencia, las matemáticas y el desarrollo de software, enfocado en el desarrollo web del lado del servidor.</h1>
 <p>Siempre buscando algo nuevo por aprender.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
