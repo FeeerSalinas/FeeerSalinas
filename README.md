@@ -1,5 +1,4 @@
-<h1>Hola, soy Fernando Salinas, estudiante de quinto año de ingenieria de sistemas informaticos, actualmente enfocado en el desarrollo web con C# y .Net</h1>
-<p>Siempre buscando algo nuevo por aprender.</p>
+<h1>Hola, soy Fernando Salinas, estudiante de quinto año de ingenieria de sistemas informaticos y desarrollador backend con .Net</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
